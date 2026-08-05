@@ -43,8 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Even_Odd.cs" />
+    <Compile Include="Factorial_Num.cs" />
+    <Compile Include="Input_Num_Sum.cs" />
+    <Compile Include="Palindrome_Num.cs" />
+    <Compile Include="Positive_Negative.cs" />
+    <Compile Include="Prime_Non-Prime.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Simple_Calculator.cs" />
+    <Compile Include="Student_Grade.cs" />
+    <Compile Include="User-Input.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
